@@ -1,0 +1,11 @@
+Policy Statistics: Workflow Summary
+
+Server Name: all
+Policy Name: all
+Workflow: all
+"Workflow Start Time: from Jul 13, 2019 1:51:20 PM (30 days) to Aug 12, 2019 1:51:20 PM"
+
+Server Name,Policy Name,Workflow,Group,Number of Runs,Successful,Failed,Interrupted,Total Duration,Files Count,Save Sets Count,Amount of Data (B),Target Size (B),Deduplication Ratio (%),Clones Count,Clone Size (B)
+gceeuwe1lnws001,Server Protection,NMC server backup,NMC server,31,0,31,0,101,0,31,0,0,0,0,0,
+gceeuwe1lnws001,Server Protection,Server backup,Server Protection,31,5,26,0,209,968,93,"8,346,596","2,014,961",75,0,0,
+gceeuwe1lnws001,Test,Test_FS,Test_Test_FS,32,22,10,0,193,116453,96,"1,322,512,584","1,127,426,461",14,0,0,

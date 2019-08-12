@@ -1,0 +1,4 @@
+Customer, ServerName, BkpStarted, BkpSuccess, BkpWarning, BkpError, Date
+atos-imo-tooling-prod,gceeuwe1lnws001,31,0,0,31,20190812
+atos-imo-tooling-prod,gceeuwe1lnws001,31,5,0,26,20190812
+atos-imo-tooling-prod,gceeuwe1lnws001,32,22,0,10,20190812
